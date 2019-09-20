@@ -1,3 +1,8 @@
+Add patch to work with ESP32:
+-----------------------------
+Added:
+ * https://github.com/rjbatista/tm1638-library/pull/44
+ * https://github.com/rjbatista/tm1638-library/issues/48 
 TM1638 library
 --------------
 Ricardo Batista
